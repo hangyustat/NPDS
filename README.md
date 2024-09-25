@@ -34,9 +34,11 @@ Fig 1 shows the construction workflow for _NPDS_, where each step is guided by c
 ### Hypothesis testing
 The null hypothesis (i.e., $H_{0}$) is that there is no change in the nodule areas between the two CT scans, while the alternative hypothesis (i.e., $H_{1}$) is that there is a change in the nodule areas between the two CT scans.
 
-To obtain the distribution of the _NPDS_ statistic under the null hypothesis, we generated a large-scale clinically invariant nodule sample (ClinvNod sample) using random perturbation method and conducted hypothesis testing under its NPDS empirical distribution.
+To obtain the distribution of the _NPDS_ statistic under the null hypothesis, we generated a large-scale clinically invariant nodule sample (ClinvNod sample) by two-step observational study and random perturbation method. Then, the hypothesis testing could be conducted under the _NPDS_ sampling distribution of ClinvNod sample.
 
-Fig 2 shows the sampling distribution of _NPDS_ for one-tailed (left) and two-tailed (right) test.
+Fig 2 shows the design of the two-step observational study.
+
+Fig 3 shows the sampling distribution of _NPDS_ for one-tailed (left) and two-tailed (right) test.
 
 ## Requirements
 
