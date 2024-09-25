@@ -37,3 +37,22 @@ The null hypothesis (i.e., $H_{0}$) is that there is no change in the nodule are
 To obtain the distribution of the _NPDS_ statistic under the null hypothesis, we generated a large-scale clinically invariant nodule sample (ClinvNod sample) using random perturbation method and conducted hypothesis testing under its NPDS empirical distribution.
 
 Fig 2 shows the sampling distribution of _NPDS_ for one-tailed (left) and two-tailed (right) test.
+
+## Requirements
+
+The code is written in Python and requires the following packages: 
+
+* Python 3.8 
+* Numpy 1.24.4 
+* Pandas 2.0.3 
+* Matplotlib 3.6.3 
+* Scipy 1.8.0
+* Skimage 0.21.0
+* Itk 5.4.0
+* Plotnine 0.12.4
+* Ipywidgets 7.6.5
+* Pillow 10.0.0
+* Ipython 7.30.1
+## Installation
+* Install Python 3.8
+* pip install -r requirements.txt
