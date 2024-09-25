@@ -40,8 +40,11 @@ To obtain the distribution of the _NPDS_ statistic under the null hypothesis, we
 
 Fig 2 shows the design of the two-step observational study.
 
+![two_step_ob_study.png](https://github.com/hangyustat/NPDS/blob/main/Images/two_step_ob_study.png)
+
 Fig 3 shows the sampling distribution of _NPDS_ for one-tailed (left) and two-tailed (right) test.
 
+![NPDS_sampling_distribution.png](https://github.com/hangyustat/NPDS/blob/main/Images/NPDS_sampling_distribution.png)
 ## Requirements
 
 The code is written in Python and requires the following packages: 
