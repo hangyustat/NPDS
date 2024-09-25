@@ -31,6 +31,8 @@ In this study, we innovatively consider the nodule progression problem from a hy
 
 ### Workflow for _NPDS_ construction
 Fig 1 shows the construction workflow for _NPDS_, where each step is guided by clinical experience.
+
+![NPDS_construction_flow.png](https://github.com/hangyustat/NPDS/main/Images/NPDS_construction_flow.png?raw=true)
 ### Hypothesis testing
 The null hypothesis (i.e., $H_{0}$) is that there is no change in the nodule areas between the two CT scans, while the alternative hypothesis (i.e., $H_{1}$) is that there is a change in the nodule areas between the two CT scans.
 
