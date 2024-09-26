@@ -19,7 +19,7 @@ This repository's contents, protected by patent, are solely for personal learnin
 ### Terms for Personal Learning and Academic Research
 Individual users are permitted to use this repository for learning and research purposes, provided that they abide by applicable laws. Should you utilize this project in your research, please cite our work as follows:
 
->Zhou, J., Yu, H., Wang, H., Ji, Y. A Novel Statistic Guided by Clinical Experience for Assessing the Progression of Lung Nodules. doi
+>Zhou, J., Yu, H., Wang, H., and Ji, Y. A Novel Statistic Guided by Clinical Experience for Assessing the Progression of Lung Nodules. doi
 
 ## Introduction
 
