@@ -45,6 +45,9 @@ Fig 2 shows the design of the two-step observational study.
 Fig 3 shows the sampling distribution of _NPDS_ for one-tailed (left) and two-tailed (right) test.
 
 ![NPDS_sampling_distribution.png](https://github.com/hangyustat/NPDS/blob/main/Images/NPDS_sampling_distribution.png)
+
+### How to construct your own _NPDS_?
+Prepare your own data according to the instructions in NPDS_calculate.ipynb, and rerun it.
 ## Requirements
 
 The code is written in Python and requires the following packages: 
