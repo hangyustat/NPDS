@@ -1,4 +1,4 @@
-# _NPDS_ statistic for nodule progression detection
+# _NPDS_ for nodule progression detection
 This repository contains the code for [**A Novel Statistic Guided by Clinical Experience for Assessing the Progression of Lung Nodules**](url).
 
 ## Contents
